@@ -1,5 +1,5 @@
 
-class Hello
+class test
 {
 public static void main()
 {
