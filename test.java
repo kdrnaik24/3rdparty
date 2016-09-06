@@ -1,5 +1,5 @@
 
-class Hello()
+class Hello
 {
 public static void main()
 {
